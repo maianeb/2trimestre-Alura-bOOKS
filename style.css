@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo:#dd94ff;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    
+
+}
